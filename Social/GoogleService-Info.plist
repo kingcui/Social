@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>773911008591-m9s7a8efc9g9u8efd2hmbu3dikua9jl7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.773911008591-m9s7a8efc9g9u8efd2hmbu3dikua9jl7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA2EAUwVGZAfothr_QGYd37IpNXBjC9Y1E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>773911008591</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>KevinCui.Social</string>
+	<key>PROJECT_ID</key>
+	<string>social-9a97d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>social-9a97d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:773911008591:ios:b5189550effa78ec</string>
+	<key>DATABASE_URL</key>
+	<string>https://social-9a97d.firebaseio.com</string>
+</dict>
+</plist>
